@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34a30e220d0d9a546b10120dbf350f34
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265195
+  packageName: AA Boxing Additional Motion Animations Package
+  packageVersion: 1.0
+  assetPath: Assets/animo/AA_Boxing_Additional_Motion/Controller/AA_Boxing_Philly_Shell_Taunt_Type01.Controller
+  uploadId: 613155

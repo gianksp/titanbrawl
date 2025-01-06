@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96f7a0329cb6ab240980dd5c5e5c07a1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Philly_Shell_Defense.controller
+  uploadId: 519367

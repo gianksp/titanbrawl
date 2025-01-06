@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be5554e5aa2b1374e811ce96716ffcc9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Sit_Down_Guard.controller
+  uploadId: 519367

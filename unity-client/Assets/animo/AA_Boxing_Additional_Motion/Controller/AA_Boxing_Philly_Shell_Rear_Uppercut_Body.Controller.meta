@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d70c1162f10beb04abf63f5326264fc2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265195
+  packageName: AA Boxing Additional Motion Animations Package
+  packageVersion: 1.0
+  assetPath: Assets/animo/AA_Boxing_Additional_Motion/Controller/AA_Boxing_Philly_Shell_Rear_Uppercut_Body.Controller
+  uploadId: 613155

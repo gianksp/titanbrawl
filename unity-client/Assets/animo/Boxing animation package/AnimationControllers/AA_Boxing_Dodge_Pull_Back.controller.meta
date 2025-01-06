@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db9cf97f1dbacf4419222080934edd6d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Dodge_Pull_Back.controller
+  uploadId: 519367

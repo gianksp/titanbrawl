@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7da9c40692a11c47b1411142557d76c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265195
+  packageName: AA Boxing Additional Motion Animations Package
+  packageVersion: 1.0
+  assetPath: Assets/animo/AA_Boxing_Additional_Motion/Controller/AA_Boxing_Get_Hit_Type07_Head_L.Controller
+  uploadId: 613155

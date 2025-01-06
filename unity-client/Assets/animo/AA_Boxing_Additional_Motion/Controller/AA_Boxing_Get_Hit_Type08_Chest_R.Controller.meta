@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: abcb2df5c86227a4c856fa041d8bdea3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265195
+  packageName: AA Boxing Additional Motion Animations Package
+  packageVersion: 1.0
+  assetPath: Assets/animo/AA_Boxing_Additional_Motion/Controller/AA_Boxing_Get_Hit_Type08_Chest_R.Controller
+  uploadId: 613155

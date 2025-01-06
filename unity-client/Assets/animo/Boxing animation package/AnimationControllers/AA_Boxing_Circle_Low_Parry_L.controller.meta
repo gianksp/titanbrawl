@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3b4691436e49944383e4292d8a3d4aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Circle_Low_Parry_L.controller
+  uploadId: 519367

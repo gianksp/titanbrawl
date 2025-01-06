@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578611323073",
+    "project_id": "titan-brawl-6aeb4",
+    "storage_bucket": "titan-brawl-6aeb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578611323073:android:ba80f32cf7c7ca84c4b440",
+        "android_client_info": {
+          "package_name": "com.gianksp.titanbrawl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7OUwGosmRMc-Dchq2McCiMQepWyVI150"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

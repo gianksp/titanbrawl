@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ba88ef48a63c974a8b18da2bbb8eab1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Dodge_Slip_Right.controller
+  uploadId: 519367

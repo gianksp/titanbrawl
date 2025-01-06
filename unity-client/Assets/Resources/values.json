@@ -1,0 +1,342 @@
+[
+    { 
+        "name": "move_forward", 
+        "energy": 1, 
+        "damagePerHit": 0, 
+        "minRange": 0,
+        "maxRange": 10, 
+        "duration": 0.867,
+        "totalAttacks": 0,
+        "description": "A controlled forward movement to close distance, maintaining balance and readiness for offensive or defensive actions"
+    },
+    { 
+        "name": "move_backwards", 
+        "energy": 1, 
+        "damagePerHit": 0, 
+        "minRange": 0,
+        "maxRange": 10, 
+        "duration": 0.867,
+        "totalAttacks": 0,
+        "description": "A smooth backward movement to create distance, evading attacks while staying poised to counter or reposition."  
+    },
+    { 
+        "name": "jab", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A quick, straight punch thrown with the lead hand, designed for speed, precision, and setting up combinations while maintaining defensive readiness"
+    },
+    { 
+        "name": "jab_body", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A swift, crouching jab that lowers the head to abdomen level, combining offense with natural defense against upper attacks."
+    },
+    { 
+        "name": "cross", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10, 
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A powerful, straight punch thrown with the rear hand, utilizing full body rotation for maximum speed and impact, aimed to penetrate through an opponent's guard."
+    },
+    { 
+        "name": "cross_body", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A strong, straight rear-hand punch delivered at a downward angle, targeting the opponent's midsection while maintaining defensive balance and utilizing full body rotation for power."
+    },
+    { 
+        "name": "hook_left", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A sharp, arcing punch thrown with the lead hand, targeting the side of the opponent's head or jaw, using hip rotation for power while maintaining defensive guard."
+    },
+    { 
+        "name": "hook_left_body", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A tight, lead-hand hook aimed at the opponent's midsection, driving power from hip rotation to break their stance and weaken their core."
+    },
+    { 
+        "name": "hook_right", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A sharp, arcing punch thrown with the right hand, targeting the side of the opponent's head or jaw, using hip rotation for power while maintaining defensive guard."
+    },
+    { 
+        "name": "hook_right_body", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A tight, right-hand hook aimed at the opponent's midsection, driving power from hip rotation to break their stance and weaken their core."
+    },
+    { 
+        "name": "upper_left", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A rising left-hand punch delivered in a close range, targeting the opponent's chin or jaw with an upward motion, powered by the legs and torso for impact"
+    },
+    { 
+        "name": "upper_left_body", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10, 
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A left-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "upper_right", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10, 
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A rising right-hand punch delivered in a close range, targeting the opponent's chin or jaw with an upward motion, powered by the legs and torso for impact"
+    },
+    { 
+        "name": "upper_right_body", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "dodge_backwards_cross", 
+        "energy": 2, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "jab_cross", 
+        "energy": 4, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "jab_jab_cross", 
+        "energy": 6, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 3,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "jab_cross_hook", 
+        "energy": 6, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 3,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "jab_hook_right_cross", 
+        "energy": 6, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 3,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "cross_hook_body_cross", 
+        "energy": 6, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 3,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "jab_cross_hook_cross", 
+        "energy": 8, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 4,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "jab_cross_jab_cross_hook_hook_right", 
+        "energy": 10, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 6,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "dodge_left", 
+        "energy": 1, 
+        "damagePerHit": 0, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1, 
+        "totalAttacks": 0,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "dodge_right", 
+        "energy": 1, 
+        "damagePerHit": 0, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 0,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "dodge_backwards", 
+        "energy": 1, 
+        "damagePerHit": 0, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 0,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "feint_cross", 
+        "energy": 1, 
+        "damagePerHit": 0, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 0,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "feint_jab", 
+        "energy": 1, 
+        "damagePerHit": 0, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 0,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "feint_hook_right", 
+        "energy": 1, 
+        "damagePerHit": 0, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 0,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "move_forward_hook_cross_hook", 
+        "energy": 8, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 3,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "move_forward_jab", 
+        "energy": 5, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "move_forward_cross", 
+        "energy": 5, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "move_forward_hook_left", 
+        "energy": 5, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 1,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "jab_cross_jab_cross_hook_hook_right", 
+        "energy": 10, 
+        "damagePerHit": 1, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 6,
+        "description": "A right-hand uppercut aimed at the opponent's midsection, driving upward to target the ribs or solar plexus, combining precision with upward force."
+    },
+    { 
+        "name": "parry_left_body", 
+        "energy": 2, 
+        "damagePerHit": 3, 
+        "minRange": 0,
+        "maxRange": 10,
+        "duration": 1,
+        "totalAttacks": 0,
+        "description": "Parry body enemy right low attacks. Successful parries deal damage and interrupt."
+    }
+]

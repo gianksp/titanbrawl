@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bdfd106e1e4c2b94eb9289420ff03aa0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265195
+  packageName: AA Boxing Additional Motion Animations Package
+  packageVersion: 1.0
+  assetPath: Assets/animo/AA_Boxing_Additional_Motion/Controller/AA_Boxing_Knock_Down_Type06_Start.Controller
+  uploadId: 613155

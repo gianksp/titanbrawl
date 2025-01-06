@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b625af92e51a904b813c123cc3db455
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Forearm_Parry_L.controller
+  uploadId: 519367

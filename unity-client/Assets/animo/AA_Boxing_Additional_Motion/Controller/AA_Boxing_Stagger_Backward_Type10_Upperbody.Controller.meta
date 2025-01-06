@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a513a324c891caa4b989c8a946abb2bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265195
+  packageName: AA Boxing Additional Motion Animations Package
+  packageVersion: 1.0
+  assetPath: Assets/animo/AA_Boxing_Additional_Motion/Controller/AA_Boxing_Stagger_Backward_Type10_Upperbody.Controller
+  uploadId: 613155

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39d0459cb84d07f44bb5ec41399293cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Hammer_fist_01.controller
+  uploadId: 519367

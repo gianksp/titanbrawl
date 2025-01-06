@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a160443339433345bdda939e43b8fab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_High_Guard.controller
+  uploadId: 519367

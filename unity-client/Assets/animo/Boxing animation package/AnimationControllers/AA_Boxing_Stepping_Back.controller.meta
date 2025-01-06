@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba2ec2f8e25319d4d95ae7e7e79dcd6b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Stepping_Back.controller
+  uploadId: 519367

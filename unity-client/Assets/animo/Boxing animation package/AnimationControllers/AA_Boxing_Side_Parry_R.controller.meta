@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33ef4384190b3f242aae462dd12cefee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Side_Parry_R.controller
+  uploadId: 519367

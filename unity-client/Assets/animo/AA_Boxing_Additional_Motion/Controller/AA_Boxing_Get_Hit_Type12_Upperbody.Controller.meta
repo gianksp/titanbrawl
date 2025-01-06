@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94bfb8ab8e39f4d44b4e64c97f1caadb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265195
+  packageName: AA Boxing Additional Motion Animations Package
+  packageVersion: 1.0
+  assetPath: Assets/animo/AA_Boxing_Additional_Motion/Controller/AA_Boxing_Get_Hit_Type12_Upperbody.Controller
+  uploadId: 613155

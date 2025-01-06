@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e3467ba73dae8742a668ae90a80a227
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Footwork_Drills_Left.controller
+  uploadId: 519367

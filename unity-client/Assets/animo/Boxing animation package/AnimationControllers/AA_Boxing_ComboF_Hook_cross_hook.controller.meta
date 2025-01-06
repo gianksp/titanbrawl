@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4561a57aa18617949aef2ef8ae5e7bee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_ComboF_Hook_cross_hook.controller
+  uploadId: 519367

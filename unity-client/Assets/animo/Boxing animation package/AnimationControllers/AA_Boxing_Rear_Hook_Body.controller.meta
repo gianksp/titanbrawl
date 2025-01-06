@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ac094a68d09c9d488bc57cda9771910
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Rear_Hook_Body.controller
+  uploadId: 519367

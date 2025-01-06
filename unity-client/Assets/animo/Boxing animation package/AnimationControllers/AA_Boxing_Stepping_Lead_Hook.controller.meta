@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d326b25b80091048a1205e5bfe9b330
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Stepping_Lead_Hook.controller
+  uploadId: 519367

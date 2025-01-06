@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a9fbfe605d9e164481dc390b2bdca29
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Footwork_Drills_Forward.controller
+  uploadId: 519367

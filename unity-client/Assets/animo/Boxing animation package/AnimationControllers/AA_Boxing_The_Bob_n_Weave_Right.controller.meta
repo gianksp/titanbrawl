@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db222ab116ae18a4283cd14878bb6ee7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_The_Bob_n_Weave_Right.controller
+  uploadId: 519367

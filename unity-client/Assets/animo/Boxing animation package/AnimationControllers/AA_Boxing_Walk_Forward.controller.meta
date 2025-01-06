@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07b196e4f862a38449b36936ffce377c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Walk_Forward.controller
+  uploadId: 519367

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ba392cd21aceeb44959611034e60d7a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Back_Fist.controller
+  uploadId: 519367

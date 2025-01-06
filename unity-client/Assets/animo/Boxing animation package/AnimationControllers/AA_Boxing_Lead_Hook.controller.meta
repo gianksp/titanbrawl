@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15f276796c2a56340b5fbd01b7d124df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Lead_Hook.controller
+  uploadId: 519367

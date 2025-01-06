@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb4ee66899e020a40a7c13eee57095ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_ComboD_Jab_hook_cross.controller
+  uploadId: 519367

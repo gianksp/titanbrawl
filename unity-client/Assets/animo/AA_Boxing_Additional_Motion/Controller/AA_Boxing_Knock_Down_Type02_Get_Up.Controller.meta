@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0998bf06eac1792468f3607f298c8c3c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265195
+  packageName: AA Boxing Additional Motion Animations Package
+  packageVersion: 1.0
+  assetPath: Assets/animo/AA_Boxing_Additional_Motion/Controller/AA_Boxing_Knock_Down_Type02_Get_Up.Controller
+  uploadId: 613155

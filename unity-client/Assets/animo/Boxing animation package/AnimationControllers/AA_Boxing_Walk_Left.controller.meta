@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6efcc6930a29244fb6a1da323e2175d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Walk_Left.controller
+  uploadId: 519367

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f668c293840f4a458d550bb3117f9e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265195
+  packageName: AA Boxing Additional Motion Animations Package
+  packageVersion: 1.0
+  assetPath: Assets/animo/AA_Boxing_Additional_Motion/Controller/AA_Boxing_Philly_Shell_Rear_Elbow_Block.Controller
+  uploadId: 613155

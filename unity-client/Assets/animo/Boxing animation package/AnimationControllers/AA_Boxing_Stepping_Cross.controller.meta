@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d133c8661a748242a8cdfafa060e4f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Stepping_Cross.controller
+  uploadId: 519367

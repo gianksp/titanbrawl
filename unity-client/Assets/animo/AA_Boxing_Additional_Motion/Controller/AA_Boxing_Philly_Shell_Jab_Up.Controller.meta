@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a1eb8fa244fd0d4f912bea3e3f5d7c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265195
+  packageName: AA Boxing Additional Motion Animations Package
+  packageVersion: 1.0
+  assetPath: Assets/animo/AA_Boxing_Additional_Motion/Controller/AA_Boxing_Philly_Shell_Jab_Up.Controller
+  uploadId: 613155

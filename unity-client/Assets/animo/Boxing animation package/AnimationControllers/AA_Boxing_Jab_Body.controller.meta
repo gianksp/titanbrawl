@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 999b3e3ebf5126340af084d65b06a1c9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Jab_Body.controller
+  uploadId: 519367

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc31d6f9938573740888ae18c82b1877
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217235
+  packageName: Boxing animation package
+  packageVersion: 1.0
+  assetPath: Assets/animo/Boxing animation package/AnimationControllers/AA_Boxing_Lead_Uppercut_Body.controller
+  uploadId: 519367
